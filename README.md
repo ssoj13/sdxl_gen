@@ -26,4 +26,4 @@
   - A futuristic cyberpunk rooftop at night, overlooking a sprawling megacity with towering skyscrapers, holographic ads flickering through the fog, lone figure with cybernetic enhancements standing in silhouette, noir atmosphere, cold blue and purple color palette, ultra realistic
 
 ## Demo video:
-  - [![Demo video]()](https://youtu.be/thDtiN_u4DY)
+  - [![Demo video](docs/demo.jpg)](https://youtu.be/thDtiN_u4DY)
