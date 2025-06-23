@@ -25,5 +25,5 @@
   - Close-up of a weathered, high-tech revolver resting on a cracked concrete floor, neon signs flickering in the background, sci-fi noir style, heavy shadows and reflections, detailed textures of worn metal and scratched glass, rendered with octane
   - A futuristic cyberpunk rooftop at night, overlooking a sprawling megacity with towering skyscrapers, holographic ads flickering through the fog, lone figure with cybernetic enhancements standing in silhouette, noir atmosphere, cold blue and purple color palette, ultra realistic
 
-[Watch the demo video](docs/demo.mp4)
-
+## Demo video:
+  - https://youtu.be/thDtiN_u4DY
